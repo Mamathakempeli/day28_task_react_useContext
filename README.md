@@ -4,4 +4,4 @@ Welcome to my shopping website project! This project is built using React and in
 json file used:https://drive.google.com/file/d/1fOadeM1liwbUK38z92F0XYugk2jwqK2r/view
 
 Demo
-This project is deployed on Netlify The link is bellow, Here's a live demo of the project: 
+This project is deployed on Netlify The link is bellow, Here's a live demo of the project: https://day28taskreactusecontext.netlify.app/
